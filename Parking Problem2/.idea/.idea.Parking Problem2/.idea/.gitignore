@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Parking Problem2.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\hunte\Documents\Programaçao_EPITA\Dorset\OOP\Parking Problem2\Parking Problem2\.idea\.idea.Parking Problem2\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
